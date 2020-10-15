@@ -43,6 +43,10 @@ main nav li {
     margin-bottom: 10px;  
   }
 
+  ul {
+    display: flex;
+  }
+
 main nav {
     display: flex;
     justify-content: left;
